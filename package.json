@@ -1,13 +1,13 @@
 {
   "name": "ng-chosen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "angular directive for chosen jquery plugin",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/http-server  -a 127.0.0.1"
   },
   "author": "Alejandro Garcia Anglada <alejandro.garcia@trivago.com> (http://aganglada.com)",
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/aganglada/ng-chosen.git"
   },
